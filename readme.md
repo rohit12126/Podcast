@@ -19,4 +19,6 @@ Step 2: Configure database and make models
 	To clear config in Laravel:
 	-	php artisan config:clear
 
-After that, please review the csv file (inlcuded all the mandatory details regarding the podcast functionality) for run all the APIs
+After that, please review the below mentioned link (inlcuded all the mandatory details regarding the podcast functionality) for run all the APIs
+
+https://docs.google.com/spreadsheets/d/1ckxapsNglCJaxz9rzRb6meNc985FVP-vRCLuQ4ZKnYs/edit#gid=0
